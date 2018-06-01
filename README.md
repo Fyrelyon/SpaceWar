@@ -4,6 +4,11 @@ The evil cattos have taken over the world; oh no! It's up to space doggo now to 
 
 ## How 2 Play
 
+Each enemy only takes one shot to kill, but the game is very fast.
+You will have to most likely spam A, S, & D to win.
+
+Also, move to the left when the game begins to minimize chance of dying.
+
 ### Start the Game from Title:
 Press K on the Keyboard.
 
@@ -24,3 +29,10 @@ Press R on the Keyboard.
 
 ### "Win" the Game Instantly:
 Press P on the Keyboard.
+
+## Gameplay Pictures
+
+### Start Screen
+
+
+### Gameplay

@@ -1,6 +1,6 @@
 # Doggo-Catto Battle!
 
-The evil cattos have taken over the world; oh no! It's up to space doggo now to stop the evil cattos from reigning over the world! The fate lies within you to save the earth!
+The evil cattos have taken over the world; oh no! It's up to space doggo now to stop the evil cattos from reigning over the world! The fate lies within you to save the planet! Will you remain victorious and save the residents of earth or will you fall victim to the evil space cattos?
 
 ## How 2 Play
 
@@ -22,6 +22,5 @@ Press Q on the Keyboard.
 ### Restart the Game:
 Press R on the Keyboard.
 
-### Win the Game Instantly:
+### "Win" the Game Instantly:
 Press P on the Keyboard.
-###### dont do this

@@ -4,17 +4,8 @@ The evil cattos have taken over the world; oh no! It's up to space doggo now to 
 
 ## How 2 Play
 
-### Shield and Restore Health:
-Press Q on the Keyboard.
-
 ### Start the Game from Title:
 Press K on the Keyboard.
-
-### Win the Game Instantly:
-Press P on the Keyboard.
-
-### Restart the Game:
-Press R on the Keyboard.
 
 ### Move Left & Right:
 1. Press Left-Arrow to move Left.
@@ -24,3 +15,13 @@ Press R on the Keyboard.
 1. Press A to Shoot a left laser.
 2. Press S to Shoot a middle laser.
 3. Press D to Shoot a right laser.
+
+### Shield and Restore Health:
+Press Q on the Keyboard.
+
+### Restart the Game:
+Press R on the Keyboard.
+
+### Win the Game Instantly:
+Press P on the Keyboard.
+###### dont do this

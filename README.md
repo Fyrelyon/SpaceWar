@@ -32,7 +32,6 @@ Press P on the Keyboard.
 
 ## Gameplay Pictures
 
-### Start Screen
+![alt text](https://raw.githubusercontent.com/Fyrelyon/SpaceWar/master/doggo-catto-battle/screenshots/opening.PNG "Start Screen")
 
-
-### Gameplay
+![alt text](https://raw.githubusercontent.com/Fyrelyon/SpaceWar/master/doggo-catto-battle/screenshots/gameplay.PNG "Gameplay")

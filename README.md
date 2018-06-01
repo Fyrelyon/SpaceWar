@@ -38,4 +38,4 @@ Press P on the Keyboard.
 ### Gameplay
 ![alt text](https://raw.githubusercontent.com/Fyrelyon/SpaceWar/master/doggo-catto-battle/screenshots/gameplay.PNG "Gameplay")
 
-[>>> List of Releases included here. <<<](https://github.com/Fyrelyon/SpaceWar/releases)
+[>> List of Releases included here. <<](https://github.com/Fyrelyon/SpaceWar/releases)
